@@ -1,0 +1,387 @@
+Year,Section,Slot,Topic,Question,AnswerType,Options,CorrectAnswer
+2022,QA,1,,"Let ABCD be a parallelogram such that the coordinates of its three vertices A, B, C are
+                                (1, 1), (3, 4) and (â2, 8), respectively. Then, the coordinates of the vertex D are",MCQ,"(â4, 5) | (4, 5) | (â3, 4) | (0, 11)",A
+2022,QA,1,,"The number of ways of distributing 20 identical balloons among 4 children such that each
+                                child gets some balloons but no child gets an odd number of balloons, is",Numerical,,84
+2022,QA,1,,"A mixture contains lemon juice and sugar syrup in equal proportion. If a new mixture is
+                                created by adding this mixture and sugar syrup in the ratio 1 : 3, then the ratio of
+                                lemon juice and sugar syrup in the new mixture is",MCQ,1 : 6 | 1 : 4 | 1 : 5 | 1 : 7,D
+2022,QA,1,,"For natural numbers \(x, y\), and \(z\), if \(x y+y z=19\) and \(y z+x z=51\), then the
+                                minimum possible value of \(x y z\) is",Numerical,,34
+2022,QA,1,,"Let \(a, b, c\) be non-zero real numbers such that \(b^2 \lt 4 a c\), and \(f(x)=a x^2+b
+                                x+c\). If the set \(S\) consists of al integers \(m\) such that \(f(m)\lt0\), then the
+                                set \(S\) must necessarily be",MCQ,the set of all integers | either the empty set or the set of all integers | the empty set | the set of all positive integers,B
+2022,QA,1,,"Trains A and B start traveling at the same time towards each other with constant speeds
+                                from stations X and Y, respectively. Train A reaches station Y in 10 minutes while train
+                                B takes 9 minutes to reach station X after meeting train A. Then the total time taken,
+                                in minutes, by train B to travel from station Y to station X is",MCQ,15 | 12 | 6 | 10,A
+2022,QA,1,,"The average of three integers is 13 . When a natural number \(n\) is included, the
+                                average of these four integers remains an odd integer. The minimum possible value of
+                                \(n\) is",MCQ,3 | 4 | 5 | 1,C
+2022,QA,1,,"Pinky is standing in a queue at a ticket counter. Suppose the ratio of the number of
+                                persons standing ahead of Pinky to the number of persons standing behind her in the
+                                queue is 3 : 5. If the total number of persons in the queue is less than 300, then the
+                                maximum possible number of persons standing ahead of Pinky is",Numerical,,111
+2022,QA,1,,"Ankita buys 4 kg cashews, 14 kg peanuts and 6 kg almonds when the cost of 7 kg cashews is
+                                the same as that of 30 kg peanuts or 9 kg almonds. She mixes all the three nuts and
+                                marks a price for the mixture in order to make a profit of â¹1752. She sells 4 kg of the
+                                mixture at this marked price and the remaining at a 20% discount on the marked price,
+                                thus making a total profit of â¹744. Then the amount, in rupees, that she had spent in
+                                buying almonds is",MCQ,1440 | 1176 | 1680 | 2520,C
+2022,QA,1,,"The largest real value of \(a\) for which the equation \(|x+a|+|x-1|=2\) has an infinite
+                                number of solutions for \(x\) is",MCQ,-1 | 0 | 1 | 2,C
+2022,QA,1,,"A trapezium \(\text{ABCD}\) has side \(\text{AD}\) parallel to \(\text{BC}, \angle
+                                \text{BAD}=90^{\circ}, \text{BC}=3 \text{~cm}\) and \(\text{AD}=8 \text{~cm}\). If the
+                                perimeter of this trapezium is \(36 \text{~cm}\), then its area, in sq. \(\text{cm}\),
+                                is",Numerical,,66
+2022,QA,1,,"For any real number \(x\), let \([x]\) be the largest integer less than or equal to
+                                \(x\). If \(\sum_{n=1}^N\left[\frac{1}{5}+\frac{n}{25}\right]=25\) then \(N\) is",Numerical,,44
+2022,QA,1,,"In a village, the ratio of number of males to females is 5 : 4. The ratio of number of
+                                literate males to literate females is 2 : 3. The ratio of the number of illiterate males
+                                to illiterate females is 4 : 3. If 3600 males in the village are literate, then the
+                                total number of females in the village is",Numerical,,43200
+2022,QA,1,,"Amal buys 110 kg of syrup and 120 kg of juice, syrup being 20% less costly than juice,
+                                per kg. He sells 10 kg of syrup at 10% profit and 20 kg of juice at 20% profit. Mixing
+                                the remaining juice and syrup, Amal sells the mixture at â¹ 308.32 per kg and makes an
+                                overall profit of 64%. Then, Amal's cost price for syrup, in rupees per kg, is",Numerical,,160
+2022,QA,1,,"Let \(a\) and \(b\) be natural numbers. If \(a^2+a b+a=14\) and \(b^2+a b+b=28\), then
+                                \((2 a+b)\) equals",MCQ,7 | 10 | 9 | 8,D
+2022,QA,1,,"Alex invested his savings in two parts. The simple interest earned on the first part at
+                                15% per annum for 4 years is the same as the simple interest earned on the second part
+                                at 12% per annum for 3 years. Then, the percentage of his savings invested in the first
+                                part is",MCQ,62.5% | 37.5% | 60% | 40%,B
+2022,QA,1,,"In a class of 100 students, 73 like coffee, 80 like tea and 52 like lemonade. It may be
+                                possible that some students do not like any of these three drinks. Then the difference
+                                between the maximum and minimum possible number of students who like all the three
+                                drinks is",MCQ,48 | 53 | 47 | 52,C
+2022,QA,1,,"For any natural number \(n\), suppose the sum of the first \(n\) terms of an arithmetic
+                                progression is \(\left(n+2 n^2\right)\). If the \(n^{\text {th }}\) term of the
+                                progression is divisible by 9 , then the smallest possible value of \(n\) is",MCQ,4 | 8 | 7 | 9,C
+2022,QA,1,,"All the vertices of a rectangle lie on a circle of radius \(R\). If the perimeter of the
+                                rectangle is \(P\), then the area of the rectangle is",MCQ,\(\frac{P^2}{2}-2 P R\) | \(\frac{P^2}{8}-2 R^2\) | \(\frac{P^2}{16}-R^2\) | \(\frac{P^2}{8}-\frac{R^2}{2}\),B
+2022,QA,1,,"The average weight of students in a class increases by 600 gm when some new students join
+                                the class. If the average weight of the new students is 3 kg more than the average
+                                weight of the original students, then the ratio of the number of original students to
+                                the number of new students is",MCQ,1 : 2 | 3 : 1 | 1 : 4 | 4 : 1,D
+2022,QA,1,,"Let \(A\) be the largest positive integer that divides all the numbers of the form
+                                \(3^k+4^k+5^k\), and \(B\) be the largest positive integer that divides all the numbers
+                                of the form \(4^k+3\left(4^k\right)+4^{k+2}\), where \(k\) is any positive integer. Then
+                                \((A+B)\) equals",Numerical,,82
+2022,QA,1,,"Let \(0 \leq a \leq x \leq 100\) and \(f(x)=|x-a|+|x-100|+|x-a-50|\). Then the maximum
+                                value of \(f(x)\) becomes 100 when \(a\) is equal to",MCQ,100 | 25 | 0 | 50,D
+2022,QA,2,,"In triangle \(A B C\), altitudes \(A D\) and \(B E\) are drawn to the corresponding bases. If \(\angle B A C=45^{\circ}\) and \(\angle A B C=\theta\), then \(\frac{A D}{B E}\) equals",MCQ,\(\sqrt{2} \sin \theta\) | \(\sqrt{2} \cos \theta\) | \(\frac{(\sin \theta+\cos \theta)}{\sqrt{2}}\) | 1,A
+2022,QA,2,,"Working alone, the times taken by Anu, Tanu and Manu to complete any job are in the ratio 5 : 8 : 10. They accept a job which they can finish in 4 days if they all work together for 8 hours per day. However, Anu and Tanu work together for the first 6 days, working 6 hours 40 minutes per day. Then, the number of hours that Manu will take to complete the remaining job working alone is",Numerical,,6
+2022,QA,2,,Regular polygons A and B have number of sides in the ratio 1 : 2 and interior angles in the ratio 3 : 4. Then the number of sides of B equals,Numerical,,10
+2022,QA,2,,"If \(a\) and \(b\) are non-negative real numbers such that \(a+2 b=6\), then the average of the maximum and minimum possible values of \((a+b)\) is",MCQ,4 | 4.5 | 3.5 | 3,B
+2022,QA,2,,"Manu earns â¹4000 per month and wants to save an average of â¹550 per month in a year. In the first nine months, his monthly expense was â¹3500, and he foresees that, tenth month onward, his monthly expense will increase to â¹3700. In order to meet his yearly savings target, his monthly earnings, in rupees, from the tenth month onward should be",MCQ,4200 | 4400 | 4300 | 4350,B
+2022,QA,2,,"There are two containers of the same volume, first container half-filled with sugar syrup and the second container half-filled with milk. Half the content of the first container is transferred to the second container, and then the half of this mixture is transferred back to the first container. Next, half the content of the first container is transferred back to the second container. Then the ratio of sugar syrup and milk in the second container is",MCQ,5 : 6 | 5 : 4 | 6 : 5 | 4 : 5,A
+2022,QA,2,,"On day one, there are 100 particles in a laboratory experiment. On day \(n\), where \(n \geq 2\), one out of every \(n\) particles produces another particle. If the total number of particles in the laboratory experiment increases to 1000 on day \(m\), then \(m\) equals",MCQ,19 | 16 | 17 | 18,A
+2022,QA,2,,"The average of a non-decreasing sequence of \(N\) numbers \(a_1, a_2, \ldots, a_N\) is 300 . If \(a_1\) is replaced by \(6 a_1\), the new average becomes 400 . Then, the number of possible values of \(a_1\) is",Numerical,,14
+2022,QA,2,,"Let \(r\) and \(c\) be real numbers. If \(r\) and \(-r\) are roots of \(5 x^3+c x^2-10 x+9=0\), then \(c\) equals",MCQ,\(-\frac{9}{2}\) | \(\frac{9}{2}\) | \(-4\) | \(4\),A
+2022,QA,2,,"Suppose for all integers \(x\), there are two functions \(f\) and \(g\) such that \(f(x)+f(x-1)-1=0\) and \(g(x)=x^2\). If \(f\left(x^2-x\right)=5\), then the value of the sum \(f(g(5))+g(f(5))\) is",Numerical,,12
+2022,QA,2,,"In an election, there were four candidates and 80% of the registered voters casted their votes. One of the candidates received 30% of the casted votes while the other three candidates received the remaining casted votes in the proportion 1 : 2 : 3. If the winner of the election received 2512 votes more than the candidate with the second highest votes, then the number of registered voters was",MCQ,40192 | 60288 | 50240 | 62800,D
+2022,QA,2,,"The number of integers greater than 2000 that can be formed with the digits 0, 1, 2, 3, 4, 5, using each digit at most once, is",MCQ,1440 | 1200 | 1420 | 1480,A
+2022,QA,2,,"For some natural number \(n\), assume that \((15,000)\) ! is divisible by \((n !) !\). The largest possible value of \(n\) is",MCQ,5 | 7 | 4 | 6,B
+2022,QA,2,,"The number of distinct integer values of \(n\) satisfying \(\frac{4-\log _2 n}{3-\log _4 n}\lt0\), is",Numerical,,47
+2022,QA,2,,"In an examination, there were 75 questions. 3 marks were awarded for each correct answer, 1 mark was deducted for each wrong answer and 1 mark was awarded for each unattempted question. Rayan scored a total of 97 marks in the examination. If the number of unattempted questions was higher than the number of attempted questions, then the maximum number of correct answers that Rayan could have given in the examination is",Numerical,,24
+2022,QA,2,,"Five students, including Amit, appear for an examination in which possible marks are integers between 0 and 50, both inclusive. The average marks for all the students is 38 and exactly three students got more than 32. If no two students got the same marks and Amit got the least marks among the five students, then the difference between the highest and lowest possible marks of Amit is",MCQ,21 | 24 | 20 | 22,C
+2022,QA,2,,The number of integer solutions of the equation \(\left(x^2-10\right)^{\left(x^2-3 x-10\right)}=1\) is,Numerical,,4
+2022,QA,2,,"Mr. Pinto invests one-fifth of his capital at 6%, one-third at 10% and the remaining at 1%, each rate being simple interest per annum. Then, the minimum number of years required for the cumulative interest income from these investments to equal or exceed his initial capital is",Numerical,,20
+2022,QA,2,,"Consider the arithmetic progression \(3,7,11, \ldots\) and let \(A_n\) denote the sum of the first \(n\) terms of this progression. Then the value of \(\frac{1}{25} \sum_{n=1}^{25} A_n\) is",MCQ,404 | 442 | 455 | 415,C
+2022,QA,2,,"Let \(f(x)\) be a quadratic polynomial in \(x\) such that \(f(x) \geq 0\) for all real numbers \(x\). If \(f(2)=0\) and \(f(4)=6\), then \(f(-2)\) is equal to",MCQ,12 | 36 | 24 | 6,C
+2022,QA,2,,"The length of each side of an equilateral triangle \(\mathrm{ABC}\) is \(3 \mathrm{~cm}\). Let \(\mathrm{D}\) be a point on \(\mathrm{BC}\) such that the area of triangle \(\mathrm{ADC}\) is half the area of triangle \(\mathrm{ABD}\). Then the length of \(\mathrm{AD}\), in \(\mathrm{cm}\), is",MCQ,\(\sqrt{6}\) | \(\sqrt{5}\) | \(\sqrt{8}\) | \(\sqrt{7}\),D
+2022,QA,2,,"Two ships meet mid-ocean, and then, one ship goes south and the other ship goes west, both travelling at constant speeds. Two hours later, they are 60 km apart. If the speed of one of the ships is 6 km per hour more than the other one, then the speed, in km per hour, of the slower ship is",MCQ,12 | 18 | 20 | 24,B
+2022,QA,3,,"Suppose \(k\) is any integer such that the equation \(2 x^2+k x+5=0\) has no real roots and the equation \(x^2+(k-5) x+1=0\) has two distinct real roots for \(x\). Then, the number of possible values of \(k\) is",MCQ,7 | 8 | 9 | 13,C
+2022,QA,3,,"The minimum possible value of \(\frac{x^2-6 x+10}{3-x}\), for \(x\lt3\), is",MCQ,\(\frac{1}{2}\) | \(-\frac{1}{2}\) | \(2\) | \(-2\),C
+2022,QA,3,,"Bob can finish a job in 40 days, if he works alone. Alex is twice as fast as Bob and thrice as fast as Cole in the same job. Suppose Alex and Bob work together on the first day, Bob and Cole work together on the second day, Cole and Alex work together on the third day, and then, they continue the work by repeating this three-day roster, with Alex and Bob working together on the fourth day, and so on. Then, the total number of days Alex would have worked when the job gets finished, is",Numerical,,11
+2022,QA,3,,"A glass contains 500 cc of milk and a cup contains 500 cc of water. From the glass, 150 cc of milk is transferred to the cup and mixed thoroughly. Next, 150 cc of this mixture is transferred from the cup to the glass. Now, the amount of water in the glass and the amount of milk in the cup are in the ratio",MCQ,3 : 10 | 10 : 3 | 1 : 1 | 10 : 13,C
+2022,QA,3,,"In an examination, the average marks of students in sections A and B are 32 and 60, respectively. The number of students in section A is 10 less than that in section B. If the average marks of all the students across both the sections combined is an integer, then the difference between the maximum and minimum possible number of students in section A is",Numerical,,63
+2022,QA,3,,"Let \(r\) be a real number and \(f(x)=\left\{\begin{array}{cl}2 x-r & \text { if } x \geq r \\ r & \text { if } x\lt r\end{array}\right.\). Then, the equation \(f(x)=f(f(x))\) holds for all real values of \(x\) where",MCQ,\(x \leq r\) | \(x \geq r\) | \(x \gt r\) | \(x \neq r\),A
+2022,QA,3,,"Suppose the medians BD and CE of a triangle ABC intersect at a point O. If area of triangle ABC is 108 sq. cm., then, the area of the triangle EOD, in sq. cm., is",Numerical,,9
+2022,QA,3,,"The arithmetic mean of all the distinct numbers that can be obtained by rearranging the digits in 1421, including itself, is",MCQ,2442 | 2222 | 3333 | 2592,B
+2022,QA,3,,"Nitu has an initial capital of \(â¹ 20,000\). Out of this, she invests \(â¹ 8,000\) at \(5.5 \%\) in bank \(A, â¹ 5,000\) at \(5.6 \%\) in bank \(B\) and the remaining amount at \(x \%\) in bank \(\mathrm{C}\), each rate being simple interest per annum. Her combined annual interest income from these investments is equal to \(5 \%\) of the initial capital. If she had invested her entire initial capital in bank C alone, then her annual interest income, in rupees, would have been",MCQ,900 | 700 | 1000 | 800,D
+2022,QA,3,,"Two cars travel from different locations at constant speeds. To meet each other after starting at the same time, they take 1.5 hours if they travel towards each other, but 10.5 hours if they travel in the same direction. If the speed of the slower car is 60 km/hr, then the distance traveled, in km, by the slower car when it meets the other car while traveling towards each other, is",MCQ,150 | 100 | 90 | 120,C
+2022,QA,3,,"If \(\left(\sqrt{\frac{7}{5}}\right)^{3 x-y}=\frac{875}{2401}\) and \(\left(\frac{4 a}{b}\right)^{6 x-y}=\left(\frac{2 a}{b}\right)^{y-6 x}\), for all non-zero real values of \(a\) and \(b\), then the value of \(x+y\) is",Numerical,,14
+2022,QA,3,,"Moody takes 30 seconds to finish riding an escalator if he walks on it at his normal speed in the same direction. He takes 20 seconds to finish riding the escalator if he walks at twice his normal speed in the same direction. If Moody decides to stand still on the escalator, then the time, in seconds, needed to finish riding the escalator is",Numerical,,60
+2022,QA,3,,"Consider six distinct natural numbers such that the average of the two smallest numbers is 14, and the average of the two largest numbers is 28. Then, the maximum possible value of the average of these six numbers is",MCQ,22.5 | 23.5 | 24 | 23,A
+2022,QA,3,,"If \((3+2 \sqrt{2})\) is a root of the equation \(a x^2+b x+c=0\), and \((4+2 \sqrt{3})\) is a root of the equation \(a y^2+m y+n=0\), where \(a, b, c, m\) and \(n\) are integers, then the value of \(\left(\frac{b}{m}+\frac{c-2 b}{n}\right)\) is",MCQ,3 | 1 | 4 | 0,C
+2022,QA,3,,"If \(c=\frac{16 x}{y}+\frac{49 y}{x}\) for some non-zero real numbers \(x\) and \(y\), then \(c\) cannot take the value",MCQ,-70 | 60 | -50 | -60,C
+2022,QA,3,,"A group of \(N\) people worked on a project. They finished \(35 \%\) of the project by working 7 hours a day for 10 days. Thereafter, 10 people left the group and the remaining people finished the rest of the project in 14 days by working 10 hours a day. Then the value of \(N\) is",MCQ,23 | 140 | 36 | 150,B
+2022,QA,3,,"The average of all 3-digit terms in the arithmetic progression 38, 55, 72, ..., is",Numerical,,548
+2022,QA,3,,"In a triangle \(\mathrm{ABC}, \mathrm{AB}=\mathrm{AC}=8 \mathrm{cm}\). A circle drawn with \(\mathrm{BC}\) as diameter passes through \(\mathrm{A}\). Another circle drawn with center at A passes through B and \(\mathrm{C}\). Then the area, in sq. \(\mathrm{cm}\), of the overlapping region between the two circles is",MCQ,\(16(\pi-1)\) | \(32(\pi-1)\) | \(32 \pi\) | \(16 \pi\),B
+2022,QA,3,,"A school has less than 5000 students and if the students are divided equally into teams of either 9 or 10 or 12 or 25 each, exactly 4 are always left out. However, if they are divided into teams of 11 each, no one is left out. The maximum number of teams of 12 each that can be formed out of the students in the school is",Numerical,,150
+2022,QA,3,,"A donation box can receive only cheques of â¹100, â¹250, and â¹500. On one good day, the donation box was found to contain exactly 100 cheques amounting to a total sum of â¹15250. Then, the maximum possible number of cheques of â¹500 that the donation box may have contained, is",Numerical,,12
+2022,QA,3,,"Two ships are approaching a port along straight routes at constant speeds. Initially, the two ships and the port formed an equilateral triangle with sides of length 24 km. When the slower ship travelled 8 km, the triangle formed by the new positions of the two ships and the port became right-angled. When the faster ship reaches the port, the distance, in km, between the other ship and the port will be",MCQ,8 | 12 | 6 | 4,B
+2022,QA,3,,"The lengths of all four sides of a quadrilateral are integer valued. If three of its sides are of length 1 cm, 2 cm and 4 cm, then the total number of possible lengths of the fourth side is",MCQ,6 | 4 | 5 | 3,C
+2023,QA,1,,"If \(x\) and \(y\) are positive real numbers such that \(\log _x\left(x^2+12\right)=4\) and \(3 \log _y x=1\), then \(x+y\) equals",MCQ,20 | 11 | 68 | 10,D
+2023,QA,1,,"If \(x\) and \(y\) are real numbers such that \(x^2+(x-2 y-1)^2=-4 y(x+y)\), then the value \(x-2 y\) is",MCQ,0 | 1 | 2 | -1,B
+2023,QA,1,,"If \(\sqrt{5 x+9}+\sqrt{5 x-9}=3(2+\sqrt{2})\), then \(\sqrt{10 x+9}\) is equal to",MCQ,\(4 \sqrt{5}\) | \(2 \sqrt{7}\) | \(3 \sqrt{31}\) | \(3 \sqrt{7}\),D
+2023,QA,1,,"Let \(n\) be the least positive integer such that 168 is a factor of \(1134^n\). If \(m\) is the least positive integer such that \(1134^n\) is a factor of \(168^m\), then \(m+n\) equals",MCQ,12 | 9 | 15 | 24,C
+2023,QA,1,,The number of integer solutions of equation \( 2|x|\left(x^2+1\right)=5 x^2 \) is,Numerical,,3
+2023,QA,1,,"Let \(\alpha\) and \(\beta\) be the two distinct roots of the equation \(2 x^2-6 x+k=0\), such that \((\alpha+\beta)\) and \(\alpha \beta\) are the distinct roots of the equation \(x^2+p x+p=0\). Then, the value of \(8(k-p)\) is",Numerical,,6
+2023,QA,1,,"The equation \(x^3+(2 r+1) x^2+(4 r-1) x+2=0\) has -2 as one of the roots. If the other two roots are real, then the minimum possible non-negative integer value of \(r\) is",Numerical,,2
+2023,QA,1,,"Brishti went on an 8-hour trip in a car. Before the trip, the car had travelled a total of \(x \mathrm{~km}\) till then, where \(x\) is a whole number and is palindromic, i.e., \(x\) remains unchanged when its digits are reversed. At the end of the trip, the car had travelled a total of \(26862 \mathrm{~km}\) till then, this number again being palindromic. If Brishti never drove at more than \(110 \mathrm{~km} / \mathrm{h}\), then the greatest possible average speed at which she drove during the trip, in \(\mathrm{km} / \mathrm{h}\), was",MCQ,90 | 100 | 80 | 110,B
+2023,QA,1,,"The minor angle between the hours hand and minutes hand of a clock was observed at \(8: 48 \mathrm{am}\). The minimum duration, in minutes, after 8.48 am when this angle increases by \(50 \%\) is",MCQ,\(\frac{36}{11}\) | \(\frac{24}{11}\) | 2 | 4,B
+2023,QA,1,,"In an examination, the average marks of 4 girls and 6 boys is 24. Each of the girls has the same marks while each of the boys has the same marks. If the marks of any girl is at most double the marks of any boy, but not less than the marks of any boy, then the number of possible distinct integer values of the total marks of 2 girls and 6 boys is",MCQ,19 | 21 | 20 | 22,B
+2023,QA,1,,"A mixture P is formed by removing a certain amount of coffee from a coffee jar and replacing the same amount with cocoa powder. The same amount is again removed from mixture P and replaced with same amount of cocoa powder to form a new mixture Q. If the ratio of coffee and cocoa in the mixture Q is 16 : 9, then the ratio of cocoa in mixture P to that in mixture Q is",MCQ,4 : 9 | 1 : 3 | 5 : 9 | 1 : 2,C
+2023,QA,1,,"The salaries of three friends Sita, Gita and Mita are initially in the ratio 5 : 6 : 7, respectively. In the first year, they get salary hikes of 20%, 25% and 20%, respectively. In the second year, Sita and Mita get salary hikes of 40% and 25%, respectively, and the salary of Gita becomes equal to the mean salary of the three friends. The salary hike of Gita in the second year is",MCQ,26% | 28% | 25% | 30%,A
+2023,QA,1,,"Gita sells two objects A and B at the same price such that she makes a profit of 20% on object A and a loss of 10% on object B. If she increases the selling price such that objects A and B are still sold at an equal price and a profit of 10% is made on object B, then the profit made on object A will be nearest to",MCQ,42% | 47% | 45% | 49%,B
+2023,QA,1,,"Arvind travels from town A to town B, and Surbhi from town B to town A, both starting at the same time along the same route. After meeting each other, Arvind takes 6 hours to reach town B while Surbhi takes 24 hours to reach town A. If Arvind travelled at a speed of 54 km/h, then the distance, in km, between town A and town B is",Numerical,,972
+2023,QA,1,,"The amount of job that Amal, Sunil and Kamal can individually do in a day, are in harmonic progression. Kamal takes twice as much time as Amal to do the same amount of job. If Amal and Sunil work for 4 days and 9 days, respectively, Kamal needs to work for 16 days to finish the remaining job. Then the number of days Sunil will take to finish the job working alone, is",Numerical,,27
+2023,QA,1,,"Anil invests Rs. 22000 for 6 years in a certain scheme with 4% interest per annum, compounded half-yearly. Sunil invests in the same scheme for 5 years, and then reinvests the entire amount received at the end of 5 years for one year at 10% simple interest. If the amounts received by both at the end of 6 years are same, then the initial investment made by Sunil, in rupees, is",Numerical,,20808
+2023,QA,1,,"Let \(\mathrm{C}\) be the circle \(x^2+y^2+4 x-6 y-3=0\) and \(\mathrm{L}\) be the locus of the point of intersection of a pair of tangents to \(\mathrm{C}\) with the angle between the two tangents equal to \(60^{\circ}\). Then, the point at which \(L\) touches the line \(x=6\) is",MCQ,"(6,4) | (6,8) | (6,3) | (6,6)",C
+2023,QA,1,,"A quadrilateral ABCD is inscribed in a circle such that AB : CD = 2 : 1 and BC : AD = 5 : 4. If AC and BD intersect at the point E, then AE : CE equals",MCQ,1 : 2 | 5 : 8 | 8 : 5 | 2 : 1,C
+2023,QA,1,,"In a right-angled triangle ABC, the altitude AB is 5 cm, and the base BC is 12 cm. P and Q are two points on BC such that the areas of ΔABP, ΔABQ and ΔABC are in arithmetic progression. If the area of ΔABC is 1.5 times the area of ΔABP, the length of PQ, in cm, is",Numerical,,2
+2023,QA,1,,"For some positive and distinct real numbers \(x, y\) and \(z\), if \(\frac{1}{\sqrt{y}+\sqrt{z}}\) is the arithmetic mean of \(\frac{1}{\sqrt{x}+\sqrt{z}}\) and \(\frac{1}{\sqrt{x}+\sqrt{y}}\), then the relationship which will always hold true, is",MCQ,"\(\sqrt{x}, \sqrt{y}\) and \(\sqrt{z}\) are in arithmetic progression | \(\sqrt{x}, \sqrt{z}\) and \(\sqrt{y}\) are in arithmetic progression | \(y, x\) and \(z\) are in arithmetic progression | \(x, y\) and \(z\) are in arithmetic progression",C
+2023,QA,1,,The number of all natural numbers up to 1000 with non-repeating digits is,MCQ,585 | 504 | 648 | 738,D
+2023,QA,1,,"A lab experiment measures the number of organisms at 8 am every day. Starting with 2 organisms on the first day, the number of organisms on any day is equal to 3 more than twice the number on the previous day. If the number of organisms on the \(n^{\text {th }}\) day exceeds one million, then the lowest possible value of \(n\) is",Numerical,,19
+2023,QA,2,,"Let \(a, b, m\) and \(n\) be natural numbers such that \(a>1\) and \(b>1\). If \(a^m b^n=144^{145}\), then the largest possible value of \(n-m\) is",MCQ,580 | 290 | 579 | 289,C
+2023,QA,2,,"The sum of all possible values of \(x\) satisfying the equation \(2^{4 x^2}-2^{2 x^2+x+16}+2^{2 x+30}=0\), is",MCQ,\(\frac{3}{2}\) | \(\frac{5}{2}\) | \(\frac{1}{2}\) | 3,C
+2023,QA,2,,"For any natural numbers \(m, n\), and \(k\), such that \(k\) divides both \(m+2 n\) and \(3 m+4 n, k\) must be a common divisor of",MCQ,\(2 m\) and \(3 n\) | \(m\) and \(2 n\) | \(2 m\) and \(n\) | \(m\) and \(n\),B
+2023,QA,2,,"Any non-zero real numbers \(x, y\) such that \(y \neq 3\) and \(\frac{x}{y} \lt \frac{x+3}{y-3}\), will satisfy the condition",MCQ,"If \(y>10\), then \(-x>y\) | If \(x \lt 0\), then \(-x \lt y\) | If \(y \lt 0\), then \(-x \lt y\) | \(\frac{x}{y} \lt \frac{y}{x}\)",C
+2023,QA,2,,"For some positive real number \(x\), if \(\log _{\sqrt{3}}(x)+\frac{\log _x(25)}{\log _x(0.008)}=\frac{16}{3}\), then the value of \(\log _3\left(3 x^2\right)\) is",Numerical,,7
+2023,QA,2,,"The number of positive integers less than 50, having exactly two distinct factors other than 1 and itself, is",Numerical,,15
+2023,QA,2,,"Let \(k\) be the largest integer such that the equation \((x-1)^2+2 k x+11=0\) has no real roots. If \(y\) is a positive real number, then the least possible value of \(\frac{k}{4 y}+9 y\) is",Numerical,,6
+2023,QA,2,,"In a company, 20% of the employees work in the manufacturing department. If the total salary obtained by all the manufacturing employees is one-sixth of the total salary obtained by all the employees in the company, then the ratio of the average salary obtained by the manufacturing employees to the average salary obtained by the non-manufacturing employees is",MCQ,4 : 5 | 5 : 6 | 5 : 4 | 6 : 5,A
+2023,QA,2,,"Minu purchases a pair of sunglasses at Rs.1000 and sells to Kanu at 20% profit. Then, Kanu sells it back to Minu at 20% loss. Finally, Minu sells the same pair of sunglasses to Tanu. If the total profit made by Minu from all her transactions is Rs.500, then the percentage of profit made by Minu when she sold the pair of sunglasses to Tanu is",MCQ,35.42% | 31.25% | 52% | 26%,B
+2023,QA,2,,"Pipes A and C are fill pipes while Pipe B is a drain pipe of a tank. Pipe B empties the full tank in one hour less than the time taken by Pipe A to fill the empty tank. When pipes A, B and C are turned on together, the empty tank is filled in two hours. If pipes B and C are turned on together when the tank is empty and Pipe B is turned off after one hour, then Pipe C takes another one hour and 15 minutes to fill the remaining tank. If Pipe A can fill the empty tank in less than five hours, then the time taken, in minutes, by Pipe C to fill the empty tank is",MCQ,90 | 60 | 120 | 75,A
+2023,QA,2,,"Ravi is driving at a speed of 40 km/h on a road. Vijay is 54 meters behind Ravi and driving in the same direction as Ravi. Ashok is driving along the same road from the opposite direction at a speed of 50 km/h and is 225 meters away from Ravi. The speed, in km/h, at which Vijay should drive so that all the three cross each other at the same time, is",MCQ,58.8 | 64.4 | 67.2 | 61.6,D
+2023,QA,2,,"Anil borrows Rs 2 lakhs at an interest rate of 8% per annum, compounded half-yearly. He repays Rs 10320 at the end of the first year and closes the loan by paying the outstanding amount at the end of the third year. Then, the total interest, in rupees, paid over the three years is nearest to",MCQ,45311 | 51311 | 33130 | 40991,B
+2023,QA,2,,"The price of a precious stone is directly proportional to the square of its weight. Sita has a precious stone weighing 18 units. If she breaks it into four pieces with each piece having distinct integer weight, then the difference between the highest and lowest possible values of the total price of the four pieces will be 288000. Then, the price of the original precious stone is",MCQ,1296000 | 1944000 | 972000 | 1620000,A
+2023,QA,2,,"A container has 40 liters of milk. Then, 4 liters are removed from the container and replaced with 4 liters of water. This process of replacing 4 liters of the liquid in the container with an equal volume of water is continued repeatedly. The smallest number of times of doing this process, after which the volume of milk in the container becomes less than that of water, is",Numerical,,7
+2023,QA,2,,"Jayant bought a certain number of white shirts at the rate of Rs 1000 per piece and a certain number of blue shirts at the rate of Rs 1125 per piece. For each shirt, he then set a fixed market price which was 25% higher than the average cost of all the shirts. He sold all the shirts at a discount of 10% and made a total profit of Rs 51000. If he bought both colors of shirts, then the maximum possible total number of shirts that he could have bought is",Numerical,,407
+2023,QA,2,,"If a certain amount of money is divided equally among \(n\) persons, each one receives Rs 352 . However, if two persons receive Rs 506 each and the remaining amount is divided equally among the other persons, each of them receive less than or equal to Rs 330 . Then, the maximum possible value of \(n\) is",Numerical,,16
+2023,QA,2,,"In a rectangle ABCD, AB = 9 cm and BC = 6 cm. P and Q are two points on BC such that the areas of the figures ABP, APQ, and AQCD are in geometric progression. If the area of the figure AQCD is four times the area of triangle ABP, then BP : PQ : QC is",MCQ,1 : 1 : 2 | 1 : 2 : 4 | 2 : 4 : 1 | 1 : 2 : 1,C
+2023,QA,2,,"A triangle is drawn with its vertices on the circle \(C\) such that one of its sides is a diameter of \(C\) and the other two sides have their lengths in the ratio \(a: b\). If the radius of the circle is \(r\), then the area of the triangle is",MCQ,\(\frac{a b r^2}{2\left(a^2+b^2\right)}\) | \(\frac{a b r^2}{a^2+b^2}\) | \(\frac{4 a b r^2}{a^2+b^2}\) | \(\frac{2 a b r^2}{a^2+b^2}\),D
+2023,QA,2,,"The area of the quadrilateral bounded by the \(Y\)-axis, the line \(x=5\), and the lines \(|x-y|-|x-5|=2\), is",Numerical,,45
+2023,QA,2,,"Let both the series \(a_1, a_2, a_3, \ldots\) and \(b_1, b_2, b_3 \ldots\) be in arithmetic progression such that the common differences of both the series are prime numbers. If \(a_5=b_9, a_{19}=b_{19}\) and \(b_2=0\), then \(a_{11}\) equals",MCQ,79 | 83 | 86 | 84,A
+2023,QA,2,,"If \(p^2+q^2-29=2 p q-20=52-2 p q\), then the difference between the maximum and minimum possible value of \(\left(p^3-q^3\right)\) is",MCQ,486 | 189 | 378 | 243,C
+2023,QA,2,,"Let \(a_n\) and \(b_n\) be two sequences such that \(a_n=13+6(n-1)\) and \(b_n=15+7(n-1)\) for all natural numbers \(n\). Then, the largest three digit integer that is common to both these sequences, is",Numerical,,967
+2023,QA,3,,"For a real number \(x\), if \(\frac{1}{2}, \frac{\log _3\left(2^x-9\right)}{\log _3 4}\), and \(\frac{\log _5\left(2^x+\frac{17}{2}\right)}{\log _5 4}\) are in an arithmetic progression, then the common difference is",MCQ,\(\log _4 7\) | \(\log _4\left(\frac{3}{2}\right)\) | \(\log _4\left(\frac{7}{2}\right)\) | \(\log _4\left(\frac{23}{2}\right)\),C
+2023,QA,3,,"Let \(n\) and \(m\) be two positive integers such that there are exactly 41 integers greater than \(8^m\) and less than \(8^n\), which can be expressed as powers of 2 . Then, the smallest possible value of \(n+m\) is",MCQ,14 | 42 | 16 | 44,C
+2023,QA,3,,"For some real numbers \(a\) and \(b\), the system of equations \(x+y=4\) and \((a+5) x+\left(b^2-15\right) y=8 b\) has infinitely many solutions for \(x\) and \(y\). Then, the maximum possible value of \(a b\) is",MCQ,15 | 33 | 55 | 25,B
+2023,QA,3,,"If \(x\) is a positive real number such that \(x^8+\left(\frac{1}{x}\right)^8=47\), then the value of \(x^9+\left(\frac{1}{x}\right)^9\) is",MCQ,\(40 \sqrt{5}\) | \(36 \sqrt{5}\) | \(30 \sqrt{5}\) | \(34 \sqrt{5}\),D
+2023,QA,3,,"A quadratic equation \(x^2+b x+c=0\) has two real roots. If the difference between the reciprocals of the roots is \(\frac{1}{3}\), and the sum of the reciprocals of the squares of the roots is \(\frac{5}{9}\), then the largest possible value of \((b+c)\) is",Numerical,,9
+2023,QA,3,,"The sum of the first two natural numbers, each having 15 factors (including 1 and the number itself), is",Numerical,,468
+2023,QA,3,,"Let \(n\) be any natural number such that \(5^{n-1} \lt 3^{n+1}\). Then, the least integer value of \(m\) that satisfies \(3^{n+1} \lt 2^{n+m}\) for each such \(n\), is",Numerical,,5
+2023,QA,3,,"Rahul, Rakshita and Gurmeet, working together, would have taken more than 7 days to finish a job. On the other hand, Rahul and Gurmeet, working together would have taken less than 15 days to finish the job. However, they all worked together for 6 days, followed by Rakshita, who worked alone for 3 more days to finish the job. If Rakshita had worked alone on the job then the number of days she would have taken to finish the job, cannot be",MCQ,17 | 21 | 16 | 20,B
+2023,QA,3,,"Anil mixes cocoa with sugar in the ratio 3 : 2 to prepare mixture A, and coffee with sugar in the ratio 7 : 3 to prepare mixture B. He combines mixtures A and B in the ratio 2 : 3 to make a new mixture C. If he mixes C with an equal amount of milk to make a drink, then the percentage of sugar in this drink will be",MCQ,21 | 24 | 16 | 17,D
+2023,QA,3,,"The population of a town in 2020 was 100000 . The population decreased by \(y \%\) from the year 2020 to 2021 , and increased by \(x \%\) from the year 2021 to 2022, where \(x\) and \(y\) are two natural numbers. If population in 2022 was greater than the population in 2020 and the difference between \(x\) and \(y\) is 10 , then the lowest possible population of the town in 2021 was",MCQ,74000 | 75000 | 72000 | 73000,D
+2023,QA,3,,"A merchant purchases a cloth at a rate of Rs.100 per meter and receives 5 cm length of cloth free for every 100 cm length of cloth purchased by him. He sells the same cloth at a rate of Rs.110 per meter but cheats his customers by giving 95 cm length of cloth for every 100 cm length of cloth purchased by the customers. If the merchant provides a 5% discount, the resulting profit earned by him is",MCQ,4.2% | 15.5% | 16% | 9.7%,B
+2023,QA,3,,"There are three persons \(\mathrm{A}, \mathrm{B}\) and \(\mathrm{C}\) in a room. If a person \(\mathrm{D}\) joins the room, the average weight of the persons in the room reduces by \(x \mathrm{~kg}\). Instead of \(\mathrm{D}\), if person \(\mathrm{E}\) joins the room, the average weight of the persons in the room increases by \(2 x \mathrm{~kg}\). If the weight of \(\mathrm{E}\) is \(12 \mathrm{~kg}\) more than that of \(\mathrm{D}\), then the value of \(x\) is",MCQ,1.5 | 2 | 0.5 | 1,D
+2023,QA,3,,"A boat takes 2 hours to travel downstream a river from port A to port B, and 3 hours to return to port A. Another boat takes a total of 6 hours to travel from port B to port A and return to port B. If the speeds of the boats and the river are constant, then the time, in hours, taken by the slower boat to travel from port A to port B is",MCQ,\(3(3-\sqrt{5})\) | \(12(\sqrt{5}-2)\) | \(3(3+\sqrt{5})\) | \(3(\sqrt{5}-1)\),A
+2023,QA,3,,"A fruit seller has a stock of mangoes, bananas and apples with at least one fruit of each type. At the beginning of a day, the number of mangoes make up 40% of his stock. That day, he sells half of the mangoes, 96 bananas and 40% of the apples. At the end of the day, he ends up selling 50% of the fruits. The smallest possible total number of fruits in the stock at the beginning of the day is",Numerical,,340
+2023,QA,3,,"The number of coins collected per week by two coin-collectors A and B are in the ratio 3 : 4. If the total number of coins collected by A in 5 weeks is a multiple of 7, and the total number of coins collected by B in 3 weeks is a multiple of 24, then the minimum possible number of coins collected by A in one week is",Numerical,,42
+2023,QA,3,,"Gautam and Suhani, working together, can finish a job in 20 days. If Gautam does only 60% of his usual work on a day, Suhani must do 150% of her usual work on that day to exactly make up for it. Then, the number of days required by the faster worker to complete the job working alone is",Numerical,,36
+2023,QA,3,,"Let \(\triangle A B C\) be an isosceles triangle such that \(A B\) and \(A C\) are of equal length. \(A D\) is the altitude from \(A\) on \(B C\) and \(B E\) is the altitude from \(\mathrm{B}\) on \(\mathrm{AC}\). If \(\mathrm{AD}\) and \(\mathrm{BE}\) intersect at \(\mathrm{O}\) such that \(\angle \mathrm{AOB}=105^{\circ}\), then \(\frac{A D}{B E}\) equals",MCQ,\(2 \sin 15^{\circ}\) | \(\cos 15^{\circ}\) | \(2 \cos 15^{\circ}\) | \(\sin 15^{\circ}\),C
+2023,QA,3,,"A rectangle with the largest possible area is drawn inside a semicircle of radius \(2 \mathrm{~cm}\). Then, the ratio of the lengths of the largest to the smallest side of this rectangle is",MCQ,\(2 : 1\) | \(\sqrt{5} : 1\) | \(1 : 1\) | \(\sqrt{2} : 1\),A
+2023,QA,3,,"In a regular polygon, any interior angle exceeds the exterior angle by 120 degrees. Then, the number of diagonals of this polygon is",Numerical,,54
+2023,QA,3,,"The value of \(1+\left(1+\frac{1}{3}\right) \frac{1}{4}+\left(1+\frac{1}{3}+\frac{1}{9}\right) \frac{1}{16}+\left(1+\frac{1}{3}+\frac{1}{9}+\frac{1}{27}\right) \frac{1}{64}+\cdots\), is",MCQ,\(\frac{15}{13}\) | \(\frac{16}{11}\) | \(\frac{27}{12}\) | \(\frac{15}{8}\),B
+2023,QA,3,,"Let \(a_n=46+8 n\) and \(b_n=98+4 n\) be two sequences for natural numbers \(n \leq 100\). Then, the sum of all terms common to both the sequences is",MCQ,15000 | 14900 | 14602 | 14798,B
+2023,QA,3,,"Suppose \(f(x, y)\) is a real-valued function such that \(f(3 x+2 y, 2 x-5 y)=19 x\), for all real numbers \(x\) and \(y\). The value of \(x\) for which \(f(x, 2 x)=27\), is",Numerical,,3
+2024,QA,1,Ratios Mixtures Averages,"A fruit seller has a total of 187 fruits consisting of apples, mangoes and oranges. The
+                                number of apples and
+                                mangoes are in the ratio 5 : 2. After she sells 75 apples, 26 mangoes and half of the
+                                oranges, the ratio of
+                                number of unsold apples to number of unsold oranges becomes 3 : 2. The total number of
+                                unsold fruits is",Numerical,,66
+2024,QA,1,Linear Quadratic,"If \((a+b \sqrt{n})\) is the positive square root of
+                                \((29-12 \sqrt{5})\), where \(a\) and \(b\) are integers, and \(n\) is a natural number, then
+                                the maximum possible value of \((a+b+n)\) is",MCQ,22 | 6 | 18 | 4,18
+2024,QA,1,Logarithms Exponents,"The sum of all real values of \(k\) for which
+                                \(\left(\frac{1}{8}\right)^k \times\left(\frac{1}{32768}\right)^{\frac{1}{3}}=\frac{1}{8}
+                                \times\left(\frac{1}{32768}\right)^{\frac{1}{k}}\), is",MCQ,\(\frac{2}{3}\) | \(-\frac{2}{3}\) | \(\frac{4}{3}\) | \(-\frac{4}{3}\),B
+2024,QA,1,Functions,"In the \(X Y\)-plane, the area, in sq. units, of the region
+                                defined by the inequalities \(y \geq x+4\) and \(-4 \leq x^2+y^2+4(x-y) \leq 0\) is",MCQ,\(4 \pi\) | \(2 \pi\) | \(\pi\) | \(3 \pi\),B
+2024,QA,1,Pipes Cisterns Work Time,"Renu would take 15 days working 4 hours per day to complete a certain task whereas Seema
+                                would take 8 days
+                                working 5 hours per day to complete the same task. They decide to work together to
+                                complete this task. Seema
+                                agrees to work for double the number of hours per day as Renu, while Renu agrees to work
+                                for double the
+                                number of days as Seema. If Renu works 2 hours per day, then the number of days Seema
+                                will work, is",Numerical,,6
+2024,QA,1,Percents Profits SICI,"In September, the incomes of Kamal, Amal and Vimal are in the ratio 8 : 6 : 5. They rent a
+                                house together, and Kamal pays 15%, Amal pays 12% and Vimal pays 18% of their respective
+                                incomes to cover
+                                the total house rent in that month. In October, the house rent remains unchanged while
+                                their incomes
+                                increase by 10%, 12% and 15%, respectively. In October, the percentage of their total
+                                income that will be
+                                paid as house rent, is nearest to",MCQ,14.84 | 12.75 | 13.26 | 15.18,C
+2024,QA,1,Functions,"Consider two sets \(A=\{2,3,5,7,11,13\}\) and
+                                \(B=\{1,8,27\}\). Let \(f\) be a function from \(A\) to \(B\) such that for every element \(b\)
+                                in \(B\), there is at least one element \(a\) in \(A\) such that \(f(a)=b\). Then, the total
+                                number of such functions \(f\) is",MCQ,540 | 537 | 665 | 667,A
+2024,QA,1,Linear Quadratic,"Let \(x, y\), and \(z\) be real numbers satisfying
+
+                                $$
+                                \begin{aligned}
+                                & 4\left(x^2+y^2+z^2\right)=a \\
+                                & 4(x-y-z)=3+a
+                                \end{aligned}
+                                $$
+        
+        
+                                Then \(a\) equals",MCQ,3 | 1 \(\frac{1}{3}\) | 1 | 4,A
+2024,QA,1,Combinatorics,"The sum of all four-digit numbers that can be formed with
+                                the distinct non-zero digits \(a, b, c\), and \(d\), with each digit appearing exactly once in
+                                every number, is \(153310+n\), where \(n\) is a single digit natural number. Then, the value of
+                                \((a+b+c+d+n)\) is",Numerical,,31
+2024,QA,1,Remainders,"When \(10^{100}\) is divided by 7 , the remainder is",MCQ,3 | 6 | 1 | 4,D
+2024,QA,1,Ratios Mixtures Averages,"There are four numbers such that average of first two numbers is 1 more than the first
+                                number, average of
+                                first three numbers is 2 more than average of first two numbers, and average of first
+                                four numbers is 3 more
+                                than average of first three numbers. Then, the difference between the largest and the
+                                smallest numbers, is",Numerical,,15
+2024,QA,1,Percents Profits SICI,"An amount of Rs 10000 is deposited in bank A for a certain number of years at a simple
+                                interest of 5% per
+                                annum. On maturity, the total amount received is deposited in bank B for another 5 years
+                                at a simple
+                                interest of 6% per annum. If the interests received from bank A and bank B are in the
+                                ratio 10 : 13, then
+                                the investment period, in years, in bank A is",MCQ,4 | 3 | 6 | 5,C
+2024,QA,1,Linear Quadratic,"A shop wants to sell a certain quantity (in kg) of grains. It sells half the quantity and
+                                an additional 3 kg
+                                of these grains to the first customer. Then, it sells half of the remaining quantity and
+                                an additional 3 kg
+                                of these grains to the second customer. Finally, when the shop sells half of the
+                                remaining quantity and an
+                                additional 3 kg of these grains to the third customer, there are no grains left. The
+                                initial quantity, in
+                                kg, of grains is",MCQ,18 | 36 | 50 | 42,D
+2024,QA,1,Progressions,"Suppose \(x_1, x_2, x_3, \ldots, x_{100}\) are in arithmetic
+                                progression such that \(x_5=-4\) and \(2 x_6+2 x_9=x_{11}+x_{13}\). Then, \(x_{100}\) equals",MCQ,204 | -194 | -196 | 206,B
+2024,QA,1,Speed Time Distance Races,"Two places A and B are 45 kms apart and connected by a straight road. Anil goes from A to
+                                B while Sunil goes
+                                from B to A. Starting at the same time, they cross each other in exactly 1 hour 30
+                                minutes. If Anil reaches
+                                B exactly 1 hour 15 minutes after Sunil reaches A, the speed of Anil, in km per hour, is",MCQ,16 | 14 | 12 | 18,C
+2024,QA,1,Mensuration,"The surface area of a closed rectangular box, which is
+                                inscribed in a sphere, is 846 sq cm , and the sum of the lengths of all its edges is 144 cm .
+                                The volume, in cubic cm , of the sphere is",MCQ,\(750 \pi\) | \(1125 \pi \sqrt{2}\) | \(1125 \pi\) | \(750 \pi \sqrt{2}\),B
+2024,QA,1,Ratios Mixtures Averages,"A glass is filled with milk. Two-thirds of its content is poured out and replaced with
+                                water. If this process
+                                of pouring out two-thirds the content and replacing with water is repeated three more
+                                times, then the final
+                                ratio of milk to water in the glass, is",MCQ,1 : 27 | 1 : 81 | 1 : 26 | 1 : 80,D
+2024,QA,1,Functions,"For any natural number \(n\), let \(a_n\) be the largest
+                                integer not exceeding \(\sqrt{n}\). Then the value of \(a_1+a_2+\cdots+a_{50}\) is",Numerical,,217
+2024,QA,1,Geometry,"ABCD is a rectangle with sides AB = 56 cm and BC = 45 cm, and E is the midpoint of side
+                                CD. Then, the length,
+                                in cm, of radius of incircle of \(\triangle A D E\) is",Numerical,,10
+2024,QA,1,Linear Quadratic,"If the equations \(x^2+m x+9=0, x^2+n x+17=0\) and
+                                \(x^2+(m+n) x+35=0\) have a common negative root, then the value of \((2 m+3 n)\) is",Numerical,,38
+2024,QA,1,Percents Profits SICI,"The selling price of a product is fixed to ensure 40% profit. If the product had cost 40%
+                                less and had been
+                                sold for 5 rupees less, then the resulting profit would have been 50%. The original
+                                selling price, in
+                                rupees, of the product is",MCQ,10 | 15 | 20 | 14,D
+2024,QA,1,Logarithms Exponents,"If \(x\) is a positive real number such that \(4 \log _{10}
+                                x+4 \log _{100} x+8 \log _{1000} x=13\), then the greatest integer not exceeding \(x\), is",Numerical,,31
+2024,QA,2,Remainders,"When \(3^{333}\) is divided by 11 , the remainder is",MCQ,1 | 10 | 6 | 5,D
+2024,QA,2,Inequalities,"If \(x\) and \(y\) satisfy the equations \(|x|+x+y=15\) and \(x+|y|-y=20\), then \((x-y)\) equals",MCQ,10 | 5 | 20 | 15,D
+2024,QA,2,Logarithms Exponents,"If \(m\) and \(n\) are natural numbers such that \(n>1\), and \(m^n=2^{25} \times 3^{40}\), then \(m-n\) equals",MCQ,209932 | 209937 | 209947 | 209942,C
+2024,QA,2,Functions,"A function \(f\) maps the set of natural numbers to whole numbers, such that \(f(x y)=f(x) f(y)+f(x)+f(y)\) for all \(x, y\) and \(f(p)=1\) for every prime number \(p\). Then, the value of \(f(160000)\) is",MCQ,1023 | 4095 | 2047 | 8191,B
+2024,QA,2,Geometry,"\(A B C D\) is a trapezium in which \(A B\) is parallel to \(C D\). The sides \(A D\) and \(B C\) when extended, intersect at point \(E\). If \(A B=2 \mathrm{~cm}, C D=1 \mathrm{~cm}\), and perimeter of \(A B C D\) is 6 cm , then the perimeter, in cm , of \(\triangle A E B\) is",MCQ,10 | 9 | 8 | 7,C
+2024,QA,2,Pipes Cisterns Work Time,"Amal and Vimal together can complete a task in 150 days, while Vimal and Sunil
+                                together can complete the same task in 100 days. Amal starts working on the task and
+                                works for 75 days, then Vimal takes over and works for 135 days. Finally, Sunil takes
+                                over and completes the remaining task in 45 days. If Amal had started the task alone and
+                                worked on all days, Vimal had worked on every second day, and Sunil had worked on every
+                                third day, then the number of days required to complete the task would have been",Numerical,,139
+2024,QA,2,Percents Profits SICI,"Bina incurs 19% loss when she sells a product at Rs. 4860 to Shyam, who in turn sells
+                                this product to Hari. If Bina would have sold this product to Shyam at the purchase
+                                price of Hari, she would have obtained 17% profit. Then, the profit, in rupees, made by
+                                Shyam is",Numerical,,2160
+2024,QA,2,Progressions,The sum of the infinite series \(\frac{1}{5}\left(\frac{1}{5}-\frac{1}{7}\right)+\left(\frac{1}{5}\right)^2\left(\left(\frac{1}{5}\right)^2-\left(\frac{1}{7}\right)^2\right)+\left(\frac{1}{5}\right)^3\left(\left(\frac{1}{5}\right)^3-\left(\frac{1}{7}\right)^3\right)+\cdots\) is equal to,MCQ,\(\frac{5}{408}\) | \(\frac{7}{816}\) | \(\frac{7}{408}\) | \(\frac{5}{816}\),A
+2024,QA,2,Logarithms Exponents,"If \(a, b\) and \(c\) are positive real numbers such that \(a>10 \geq b \geq c\) and \(\frac{\log _8(a+b)}{\log _2 c}+\frac{\log _{27}(a-b)}{\log _3 c}=\frac{2}{3}\), then the greatest possible integer value of \(a\) is<",Numerical,,14
+2024,QA,2,Ratios Mixtures Averages,"A company has 40 employees whose names are listed in a certain order. In the year 2022,
+                                the average bonus of the first 30 employees was Rs. 40000, of the last 30 employees was
+                                Rs. 60000, and of the first 10 and last 10 employees together was Rs. 50000. Next year,
+                                the average bonus of the first 10 employees increased by 100%, of the last 10 employees
+                                increased by 200% and of the remaining employees was unchanged. Then, the average bonus,
+                                in rupees, of all the 40 employees together in the year 2023 was",MCQ,90000 | 95000 | 80000 | 85000,B
+2024,QA,2,Combinatorics,"P, Q, R and S are four towns. One can travel between P and Q along 3 direct paths,
+                                between Q and S along 4 direct paths, and between P and R along 4 direct paths. There is
+                                no direct path between P and S, while there are few direct paths between Q and R, and
+                                between R and S. One can travel from P to S either via Q, or via R, or via Q followed by
+                                R, respectively, in exactly 62 possible ways. One can also travel from Q to R either
+                                directly, or via P, or via S, in exactly 27 possible ways. Then, the number of direct
+                                paths between Q and R is",Numerical,,7
+2024,QA,2,Percents Profits SICI,"A fruit seller has a stock of mangoes, bananas and apples with at least one fruit of each
+                                type. At the beginning of a day, the number of mangoes make up 40% of his stock. That
+                                day, he sells half of the mangoes, 96 bananas and 40% of the apples. At the end of the
+                                day, he ends up selling 50% of the fruits. The smallest possible total number of fruits
+                                in the stock at the beginning of the day is",Numerical,,340
+2024,QA,2,Linear Quadratic,"If \((x+6 \sqrt{2})^{\frac{1}{2}}-(x-6 \sqrt{2})^{\frac{1}{2}}=2 \sqrt{2}\), then \(x\) equals",Numerical,,11
+2024,QA,2,Cogeo,"The coordinates of the three vertices of a triangle are: (1, 2), (7, 2), and (1, 10).
+                                Then the radius of the incircle of the triangle is",Numerical,,2
+2024,QA,2,Percents Profits SICI,"Anil invests Rs 22000 for 6 years in a scheme with 4% interest per annum, compounded
+                                half-yearly. Separately, Sunil invests a certain amount in the same scheme for 5 years,
+                                and then reinvests the entire amount he receives at the end of 5 years, for one year at
+                                10% simple interest. If the amounts received by both at the end of 6 years are equal,
+                                then the initial investment, in rupees, made by Sunil is",MCQ,20480 | 20808 | 20640 | 20860,B
+2024,QA,2,Linear Quadratic,"The roots \(\alpha, \beta\) of the equation \(3 x^2+\lambda x-1=0\), satisfy \(\frac{1}{\alpha^2}+\frac{1}{\beta^2}=15\). The value of \(\left(\alpha^3+\beta^3\right)^2\), is",MCQ,9 | 16 | 4 | 1,C
+2024,QA,2,Speed Time Distance Races,"A bus starts at 9 am and follows a fixed route every day. One day, it traveled at a
+                                constant speed of 60 km per hour and reached its destination 3.5 hours later than its
+                                scheduled arrival time. Next day, it traveled two-thirds of its route in one-third of
+                                its total scheduled travel time, and the remaining part of the route at 40 km per hour
+                                to reach just on time. The scheduled arrival time of the bus is",MCQ,10 : 30 pm | 7 : 00 pm | 7 : 30 pm | 9 : 00 pm,C
+2024,QA,2,Geometry,"Three circles of equal radii touch (but not cross) each other externally. Two other circles, \(X\) and \(Y\), are drawn such that both touch (but not cross) each of the three previous circles. If the radius of \(X\) is more than that of \(Y\), the ratio of the radii of \(X\) and \(Y\) is",MCQ,\(2+\sqrt{3}: 1\) | \(4+\sqrt{3}: 1\) | \(7+4 \sqrt{3}: 1\) | \(4+2 \sqrt{3}: 1\),C
+2024,QA,2,Ratios Mixtures Averages,"A vessel contained a certain amount of a solution of acid and water. When 2 litres of
+                                water was added to it, the new solution had 50% acid concentration. When 15 litres of
+                                acid was further added to this new solution, the final solution had 80% acid
+                                concentration. The ratio of water and acid in the original solution was",MCQ,5 : 3 | 4 : 5 | 5 : 4 | 3 : 5,D
+2024,QA,2,Inequalities,All the values of \(x\) satisfying the inequality \(\frac{1}{x+5} \leq \frac{1}{2 x-3}\) are,MCQ, |  |  | ,B
+2024,QA,2,Linear Quadratic,"If \(x\) and \(y\) are real numbers such that \(4 x^2+4 y^2-4 x y-6 y+3=0\), then the value of \((4 x+5 y)\) is",Numerical,,7
+2024,QA,2,Linear Quadratic,"When Rajesh's age was same as the present age of Garima, the ratio of their ages was 3:2. When Garima's age becomes the same as the present age of Rajesh,
+                                the ratio of the ages of Rajesh and Garima will become",MCQ,4:3 | 2:1 | 3:2 | 5 : 4,D
+2024,QA,3,Inequalities,"The number of distinct integer solutions \((x, y)\) of the equation \(|x+y|+|x-y|=2\), is",Numerical,,8
+2024,QA,3,Linear Quadratic,"For some constant real numbers \(p, k\) and \(a\), consider
+                                the following system of linear equations in \(x\) and \(y\) :
+        
+                                $$
+                                \begin{aligned}
+                                & p x-4 y=2 \\
+                                & 3 x+k y=a
+                                \end{aligned}
+                                $$
+        
+        
+                                A necessary condition for the system to have no solution for \((x, y)\), is",MCQ,\(2 a+k \neq 0\) | \(a p-6=0\) | \(a p+6=0\) | \(k p+12 \neq 0\),A
+2024,QA,3,Linear Quadratic,"If \((a+b \sqrt{3})^2=52+30 \sqrt{3}\), where \(a\) and \(b\) are natural numbers, then \(a+b\) equals",MCQ,7 | 10 | 8 | 9,C
+2024,QA,3,Geometry,"A circular plot of land is divided into two regions by a
+                                chord of length \(10 \sqrt{3}\) meters such that the chord subtends an angle of \(120^{\circ}\)
+                                at the center. Then, the area, in square meters, of the smaller region is",MCQ,\(25\left(\frac{4 \pi}{3}+\sqrt{3}\right)\) | \(20\left(\frac{4 \pi}{3}-\sqrt{3}\right)\) | \(25\left(\frac{4 \pi}{3}-\sqrt{3}\right)\) | \(20\left(\frac{4 \pi}{3}+\sqrt{3}\right)\),C
+2024,QA,3,Percents Profits SICI,"In a group of 250 students, the percentage of girls was at least 44% and at most 60%. The rest of the students were boys. Each student opted for either swimming or running or both. If 50% of the boys and 80% of the girls opted for swimming while 70% of the boys and 60% of the girls opted for running, then the minimum and maximum possible number of students who opted for both swimming and running, are",MCQ,"72 and 80, respectively | 75 and 90, respectively | 72 and 88, respectively | 75 and 96, respectively",A
+2024,QA,3,Remainders,"If \(10^{68}\) is divided by 13 , the remainder is",MCQ,8 | 9 | 4 | 5,B
+2024,QA,3,Geometry,"The midpoints of sides AB, BC, and AC in △ ABC are M, N, and P, respectively. The medians drawn from A, B, and C intersect the line segments MP, MN and NP at X, Y, and Z, respectively. If the area of △ ABC is 1440 sq cm, then the area, in sq cm, of △ XYZ is",Numerical,,90
+2024,QA,3,Percents Profits SICI,"After two successive increments, Gopal's salary became 187.5% of his initial salary. If the percentage of salary increase in the second increment was twice of that in the first increment, then the percentage of salary increase in the first increment was",MCQ,27.5 | 30 | 25 | 20,C
+2024,QA,3,Pipes Cisterns Work Time,"Sam can complete a job in 20 days when working alone. Mohit
+                                is twice as fast as Sam and thrice as fast as Ayna in the same job. They undertake a job with an
+                                arrangement where Sam and Mohit work together on the first day, Sam and Ayna on the second day,
+                                Mohit and Ayna on the third day, and this three-day pattern is repeated till the work gets
+                                completed. Then, the fraction of total work done by Sam is",MCQ,3/20 | 3/10 | 1/20 | 1/5,B
+2024,QA,3,Ratios Mixtures Averages,"A certain amount of water was poured into a 300 litre container and the remaining portion of the container was filled with milk. Then an amount of this solution was taken out from the container which was twice the volume of water that was earlier poured into it, and water was poured to refill the container again. If the resulting solution contains 72% milk, then the amount of water, in litres, that was initially poured into the container was",Numerical,,30
+2024,QA,3,Percents Profits SICI,"Aman invests Rs 4000 in a bank at a certain rate of interest, compounded annually. If the ratio of the value of the investment after 3 years to the value of the investment after 5 years is 25 : 36, then the minimum number of years required for the value of the investment to exceed Rs 20000 is",Numerical,,9
+2024,QA,3,Percents Profits SICI,"Gopi marks a price on a product in order to make 20% profit. Ravi gets 10% discount on this marked price, and thus saves Rs 15. Then, the profit, in rupees, made by Gopi by selling the product to Ravi, is",MCQ,25 | 10 | 15 | 20,B
+2024,QA,3,Ratios Mixtures Averages,"The average of three distinct real numbers is 28. If the smallest number is increased by 7 and the largest number is reduced by 10, the order of the numbers remains unchanged, and the new arithmetic mean becomes 2 more than the middle number, while the difference between the largest and the smallest numbers becomes 64. Then, the largest number in the original set of three numbers is",Numerical,,70
+2024,QA,3,Combinatorics,The number of all positive integers up to 500 with non-repeating digits is,Numerical,,378
+2024,QA,3,Speed Time Distance Races,"A train travelled a certain distance at a uniform speed. Had the speed been 6 km per hour more, it would have needed 4 hours less. Had the speed been 6 km per hour less, it would have needed 6 hours more. The distance, in km, travelled by the train is",MCQ,780 | 720 | 640 | 800,B
+2024,QA,3,Logarithms Exponents,"If \(3^a=4,4^b=5,5^c=6,6^d=7,7^e=8\) and \(8^f=9\), then the
+                                value of the product abcdef is",Numerical,,2
+2024,QA,3,Progressions,"Consider the sequence \(t_1=1, t_2=-1\) and
+                                \(t_n=\left(\frac{n-3}{n-1}\right) t_{n-2}\) for \(n \geq 3\). Then, the value of the sum
+                                \(\frac{1}{t_2}+\frac{1}{t_4}+\frac{1}{t_6}+\cdots+\frac{1}{t_{2022}}+\frac{1}{t_{2024}}\), is",MCQ,-1023132 | -1022121 | -1024144 | -1026169,C
+2024,QA,3,Inequalities,"The number of distinct real values of \(x\), satisfying the
+                                equation \(\max \{x, 2\}-\min \{x, 2\}=|x+2|-|x-2|\), is",Numerical,,2
+2024,QA,3,Ratios Mixtures Averages,"Rajesh and Vimal own 20 hectares and 30 hectares of agricultural land, respectively, which are entirely covered by wheat and mustard crops. The cultivation area of wheat and mustard in the land owned by Vimal are in the ratio of 5 : 3. If the total cultivation area of wheat and mustard are in the ratio 11 : 9, then the ratio of cultivation area of wheat and mustard in the land owned by Rajesh is",MCQ,1 : 1 | 7 : 9 | 4 : 3 | 3 : 7,B
+2024,QA,3,Functions,"For any non-zero real number \(x\), let \(f(x)+2
+                                f\left(\frac{1}{x}\right)=3 x\). Then, the sum of all possible values of \(x\) for which
+                                \(f(x)=3\), is",MCQ,2 | -3 | -2 | 3,B
+2024,QA,3,Geometry,"A regular octagon ABCDEFGH has sides of length 6 cm each.
+                                Then the area, in sq. cm , of the square \(A C E G\) is",MCQ,\(36(1+\sqrt{2})\) | \(72(1+\sqrt{2})\) | \(36(2+\sqrt{2})\) | \(72(2+\sqrt{2})\),C
+2024,QA,3,Logarithms Exponents,"The sum of all distinct real values of \(x\) that satisfy
+                                the equation \(10^x+\frac{4}{10^x}=\frac{81}{2}\), is",MCQ,\(2 \log _{10} 2\) | \(3 \log _{10} 2\) | \(4 \log _{10} 2\) | \(\log _{10} 2\),A
